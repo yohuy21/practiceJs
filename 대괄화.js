@@ -18,3 +18,4 @@ for (const [key, value] of emptMap) {
 console.log(Object.keys(dataList));
 console.log(Object.values(dataList));
 console.log(dataList2.age);
+//
